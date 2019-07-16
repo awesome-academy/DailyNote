@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Daily Note</string>
+    <string name="delete_fail">Xóa không thành công</string>
+    <string name="update_fail">Sửa không thành công</string>
+    <string name="update_success">Sửa thành công</string>
+    <string name="delete_success">Xóa thành công</string>
+    <string name="insert_success">Thêm thành công</string>
+    <string name="insert_fail">Thêm không thành công</string>
+    <string name="id_not_found">ID không tồn tại</string>
+    <string name="not_found">Rỗng</string>
 </resources>
-
