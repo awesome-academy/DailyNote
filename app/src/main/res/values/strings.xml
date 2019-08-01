@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Daily Note</string>
+    <string name="titleTextToday" >Hôm nay</string>
+    <string name="titleTextNgayTao">7/9/2019</string>
+    <string name="titleTextTimeStart">8.00 AM</string>
+    <string name="titleTextTimeEnd">9.00 AM</string>
+    <string name="titleTextTodayNote">Học Nhóm</string>
+    <string name="titleTextTimKiem">Search ......</string>
+    <string name="titleCaiDat">Cài đặt</string>
+    <string name="titleThemNote">Thêm Note</string>
+    <string name="titleDaHoanThanh">Đã hoàn thành</string>
+    <string name="titleChuaHoanThanh">Chưa Hoàn Thành</string>
+    <string name="titleTextNote">Note</string>
 </resources>
-
